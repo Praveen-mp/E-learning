@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://wallpapercave.com/dwp2x/wp9764006.jpg");
+    /* background-repeat: no-repeat; */
+    /* background-size: auto; */
+    
+}
+
+input {
+    background:transparent;
+    border: none; 
+  }
+  #Name,#Pass:focus{
+    outline: none;
+}
+#Name{
+    border-bottom: 2px solid red;
+}
+#Pass{
+    border-bottom: 2px solid red;
+}
+.form-control{
+    padding-right: 0px;
+}
+.btn{
+    text-align: center;
+    font-weight: 500;
+    color: black;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    /* margin-right: 30px; */
+    padding: 4px 10px 4px 10px;
+    /* border-radius: 10px; */
+}
+.sec-1{
+    padding:25px 0px 30px 210px;
+    border-radius: 5px;
+    background-color: #ffff;
+    /* background-image: url("https://t3.ftcdn.net/jpg/01/22/71/96/360_F_122719641_V0yw2cAOrfxsON3HeWi2Sf4iVxhv27QO.jpg"); */
+}
